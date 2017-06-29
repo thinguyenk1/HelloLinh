@@ -5,4 +5,5 @@ package com.example.thinguyen.hellolinh;
  */
 
 public class demo {
+    private int tuoi;
 }
